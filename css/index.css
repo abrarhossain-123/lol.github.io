@@ -20,7 +20,7 @@ body {
     top: 0;
     left: 0;
     width: 160px;
-    height: 280px;
+    height: 270px;
     background: rgba(17, 0, 0, 0);
     border-style: solid;
     text-align: center;
@@ -30,7 +30,7 @@ body {
     transform: rotate(90deg);
     position: absolute;
     left: 800px;
-    top: 450px;
+    top: 400px;
 }
 .Mehjsphoto{
     position: relative;
