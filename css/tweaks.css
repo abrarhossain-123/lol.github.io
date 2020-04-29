@@ -3,6 +3,7 @@
     width: 300;
     height: 400;
 }
+
 body {
     background: rgba(6, 57, 124, 0.644);
     font-family: 'Indie Flower', cursive;
@@ -22,7 +23,13 @@ body {
     justify-content: space-between;
     text-align: center;
   }
+
   .eqi-container div {
     width: "300";
     height: "400";
   }
+
+.video2 {
+    width: 250;
+    height: 350;
+}
