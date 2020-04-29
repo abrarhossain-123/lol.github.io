@@ -43,3 +43,7 @@ body {
 #Bea {
     text-align: left;
 }
+
+.Bryantsphoto {
+    transform: rotate(90deg);   
+}
