@@ -46,4 +46,7 @@ body {
 
 .Bryantsphoto {
     transform: rotate(90deg);
+    position: absolute;
+    left: 800px;
+    bottom: 700px;
 }
