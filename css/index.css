@@ -44,3 +44,6 @@ body {
     text-align: left;
 }
 
+.Bryantsphoto {
+    transform: rotate(90deg);   
+}
